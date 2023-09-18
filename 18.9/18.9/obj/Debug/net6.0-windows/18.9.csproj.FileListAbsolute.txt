@@ -1,0 +1,17 @@
+C:\Users\syrovym.05\source\repos\18.9\18.9\bin\Debug\net6.0-windows\18.9.exe
+C:\Users\syrovym.05\source\repos\18.9\18.9\bin\Debug\net6.0-windows\18.9.deps.json
+C:\Users\syrovym.05\source\repos\18.9\18.9\bin\Debug\net6.0-windows\18.9.runtimeconfig.json
+C:\Users\syrovym.05\source\repos\18.9\18.9\bin\Debug\net6.0-windows\18.9.dll
+C:\Users\syrovym.05\source\repos\18.9\18.9\bin\Debug\net6.0-windows\18.9.pdb
+C:\Users\syrovym.05\source\repos\18.9\18.9\obj\Debug\net6.0-windows\18.9.csproj.AssemblyReference.cache
+C:\Users\syrovym.05\source\repos\18.9\18.9\obj\Debug\net6.0-windows\_18._9.Form1.resources
+C:\Users\syrovym.05\source\repos\18.9\18.9\obj\Debug\net6.0-windows\18.9.csproj.GenerateResource.cache
+C:\Users\syrovym.05\source\repos\18.9\18.9\obj\Debug\net6.0-windows\18.9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syrovym.05\source\repos\18.9\18.9\obj\Debug\net6.0-windows\18.9.AssemblyInfoInputs.cache
+C:\Users\syrovym.05\source\repos\18.9\18.9\obj\Debug\net6.0-windows\18.9.AssemblyInfo.cs
+C:\Users\syrovym.05\source\repos\18.9\18.9\obj\Debug\net6.0-windows\18.9.csproj.CoreCompileInputs.cache
+C:\Users\syrovym.05\source\repos\18.9\18.9\obj\Debug\net6.0-windows\18.9.dll
+C:\Users\syrovym.05\source\repos\18.9\18.9\obj\Debug\net6.0-windows\refint\18.9.dll
+C:\Users\syrovym.05\source\repos\18.9\18.9\obj\Debug\net6.0-windows\18.9.pdb
+C:\Users\syrovym.05\source\repos\18.9\18.9\obj\Debug\net6.0-windows\18.9.genruntimeconfig.cache
+C:\Users\syrovym.05\source\repos\18.9\18.9\obj\Debug\net6.0-windows\ref\18.9.dll
