@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\syrovym.05\\source\\repos\\18.9\\18.9\\18.9.csproj": {}
+    "C:\\Users\\marsy\\Source\\Repos\\opakovani5\\18.9\\18.9\\18.9.csproj": {}
   },
   "projects": {
-    "C:\\Users\\syrovym.05\\source\\repos\\18.9\\18.9\\18.9.csproj": {
+    "C:\\Users\\marsy\\Source\\Repos\\opakovani5\\18.9\\18.9\\18.9.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\syrovym.05\\source\\repos\\18.9\\18.9\\18.9.csproj",
+        "projectUniqueName": "C:\\Users\\marsy\\Source\\Repos\\opakovani5\\18.9\\18.9\\18.9.csproj",
         "projectName": "18.9",
-        "projectPath": "C:\\Users\\syrovym.05\\source\\repos\\18.9\\18.9\\18.9.csproj",
-        "packagesPath": "C:\\Users\\syrovym.05\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\syrovym.05\\source\\repos\\18.9\\18.9\\obj\\",
+        "projectPath": "C:\\Users\\marsy\\Source\\Repos\\opakovani5\\18.9\\18.9\\18.9.csproj",
+        "packagesPath": "C:\\Users\\marsy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marsy\\Source\\Repos\\opakovani5\\18.9\\18.9\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\syrovym.05\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\marsy\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0-windows"
@@ -62,7 +64,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
